@@ -8,8 +8,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 And produces a tidy data set consisting of a Subject Id (presumably an individual being observed), an Activity type, and an average of the measurements of mean and standard deviation data from the original set, summarized for each Subject and activity type.
 
+
+Data in final tidy set
+--
 Column 1: Subject Id (numeric, 1-30)
+
 Column 2: Activity (LAYING, SITTING, STANDING, WALKING, WALKING\_DOWNSTAIRS, WALKING\_UPSTAIRS)
+
 Column 3: tBodyAcc-mean()-X
 
 Column 4: tBodyAcc-mean()-Y
